@@ -1,2 +1,2 @@
 # Birthday
-![Happy Birthday](.assets/img/hpbd.png)
+![Happy Birthday](./assets/img/hpbd.png)
