@@ -34,7 +34,7 @@ body div {
   background-repeat: no-repeat;
   background-color: rgba(255, 255, 183, 1);
   background-size: 50%;
-  background-position: 100% 70%;
+  background-position: 100% 80%;
   display: flex;
   justify-content: center;
   align-items: center;	
@@ -63,7 +63,7 @@ body div {
   align-items: center;
   background-size: 20%;
   background-repeat: no-repeat;
-  background-position: 90% 50%, 0% 60%;
+  background-position: 90% 50%, 0% 70%;
 }
 
 .body-block p {
