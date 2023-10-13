@@ -25,17 +25,16 @@ body div {
   /* background-color: orange; */
   background-repeat: no-repeat;
   background-size: contain, 20%, 30%;
-  /* position: relative; */
   background-position: 50%, 98% 10%, 10% 98%;
   background-color: rgb(233, 255, 255);
 
 }
 
 .content {
+  background-repeat: no-repeat;
   background-color: rgba(255, 255, 183, 1);
   background-size: 50%;
   background-position: 100% 70%;
-  background-repeat: no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;	
@@ -45,7 +44,7 @@ body div {
   display: flex;
   justify-content: center;
   align-items: center;
-width: 50%;
+  width: 50%;
 }
 
 .image-block img {
